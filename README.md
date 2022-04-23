@@ -17,9 +17,9 @@ A Rossmann é uma das maiores redes de drogaria da Europa, com cerca de 56.200 f
 O projeto foi desenvolvido a partir da necessidade do CFO da empresa em destinar orçamento para reforma das lojas da rede. Visto que é necessário saber quanto as lojas irão vender para dimensionar o investimento da reforma, o produto de dados de previsão de vendas foi o que mais se destacou para sanar a dor do CFO.
 <br><br>
 ### 1.2. Premissas do negócio
-- Os dias em que as lojas estão fechadas serão removidos da análise
-- Apenas lojas abertas e que possuam vendas serão consideradas
-- Para lojas que não possuem competidor próximo, será considerado uma distância muito maior do que a máxima presente nos dados analisados
+- Os dias em que as lojas estão fechadas serão removidos da análise.
+- Apenas lojas abertas e que possuam vendas serão consideradas.
+- Para lojas que não possuem competidor próximo, será considerado uma distância muito maior do que a máxima presente nos dados analisados.
 <br><br>
 
 # Ferramentas Utilizadas
